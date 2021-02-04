@@ -1,0 +1,124 @@
+---
+title: "Moisés Badilla Porras"
+date: "`r Sys.Date()`"
+author: 'MBa, Food Technologist Engineer'
+output: rmdformats::robobook
+---
+
+#### Curridabat, San José, Costa Rica - (+506) 8839-7223 - mbadilla@nsf.org 
+
+## Professional Profile
+
+Food Technologist Engineer with MBA in Management, trilingual (English, Spanish, French), with more than 20 years of experience in Manufacturing Industry. Several positions in Supply Chain Manager, Plant Production, Quality Control & Assurance and Regulatory Affairs (FDA/FSPCA) and NSF Retail Auditor.  
+
+Wide experience on Implementation of quality systems and food safety standards of the Global Food Safety Initiative (GFSI) like BRC and FSSC 22000. Team coach certified by the Benpensante Coaching Institute of Spain. Quality Manager and Operational Excellence of the ASQ.  
+
+Deep knowledge in materials and supplies regulations used in the food, pharmaceutical and medical devices industry in standards such as FDA 21 CFR 820, GMP´S regulations, ROHS, Codex, European Community.
+NSF retail auditor for Costumers such McDonalds, Kentucky Fried Chicken, Pizza Hut and Burger King in Costa Rica and Caribbean.
+
+
+## Main Skills
+
+Natural leader, manager, familiar with business financial statements (P&L), team coach focused on high performance, planner, analytical, proactive, critical thinking, conflict resolution, effective communicator, excellent interpersonal relationship, respectful, comprehensive, loyal. 
+
+## Professional Experience
+
+**Food Industry Consultant**  
+Independent -- Feb 2020 - Present  
+
+*  Quality Systems consultant for food industry companies and Coach.
+*  Trainer for food industry and quality systems.
+
+**Supply Chain Manager**  
+Alimentos Kamuk International -- Sep 2015 – Feb 2020.
+
+*  Responsible for managing, supervising and aligning the supply chain team in charge of negotiating, buying, planning, storing and delivering supplies, materials from the reception of the planned replenishment needs until the delivery of the finished goods MTO or MTS in international destinations.
+*  Direct reports of head of purchase and logistic, head of maintenance, head of quality control, head of production and head of warehouse.
+*  Responsible for coordinating and managing cross functions or matrix teams with other business units collaboratively.
+*  Periodic review of the budget with the S&OP commercial team for the effective purchase of materials based on the business activity taking advantage of the leverage with the suppliers of goods and services.
+*  Responsible for the accurate inventory of glass and chilly in the company.
+*  Leader of strategic initiatives aimed at increasing profit, reducing spending, taking advantage of market opportunities and strengthening continuous improvement.
+*  Responsible for the company's monthly profitability.
+*  Leader of the Food Safety team on the standard FSSC 22000 v 5.0
+*  Responsible for the integral and professional development of the Supply Chain team. That includes gaps analysis to schedule training, training in soft skills, emotional intelligence, behavior modifiers using NLP, conflict resolution using the framing method, effective use of time and comprehensive life balance.
+*  Responsible for the Manufacturing metrics, Scorecard and Six Sigma and Lean Manufacturing projects.
+*  Development of the bar code project in the warehouses of raw materials, finished goods and fresh processing in collaboration with the IT team to achieve the online inventory discharge in the ERP (Exactus)
+*  Plan capacity and material analysis meetings (CRP and MRP) for proper production scheduling (JIT)
+*  Coordinator of the occupational health commission responsible for reducing accidents and providing the necessary and safe equipment for the development of each job post.
+ 
+ 
+**Plant Manager**  
+Griffith Laboratories of C.A.S.A -- Jul 2013 - May 2015
+
+*  Responsible for an accurate budget of $750 000 per month and to reach 16% in Manufacturing Cost related to net sales.
+*  Responsible for leading 232 Head Count with direct report of 6 headquarters.
+*  Responsible for the total production of the manufacturing plant of Costa Rica and the Caribbean with a daily production of 94 Ton.
+*  Member of the Board of Directors and managers.
+*  Developer of Self-directed teams or high-performance model in plant under the concept of effectiveness (OEE) Overall Equipment Effectiveness, use of tools of Lean Manufacturing, optimization of process lines, continuous improvement under the model of Deming (PDCA) and individual coach for the direct team. 
+*  Reduction of $25 K in Overtime of the normal schedule of production plant.
+*  Increase the overall performance of 91% to 95% in the production lines.
+*  Elimination of claims by foreign material from 7 a year to zero.
+*  Optimization of the line of bottles of ketchup, reducing the head count in 10, increasing the productivity from 1000 kg/h to 1500 kg/h.
+*  Buy effective of a machine capping of bottles of 250 und / min, a kettle of 2500 kg and a machine of sachets or portion packs of 800 kg / h.
+*  Effective execution of 14 investment projects in Capex by more than $750 K per year.
+ 
+**Quality Manager**  
+Griffith Laboratories of C.A.S.A -- Oct 2009 - Jul 2013
+
+*  Certified grade A of company laboratories Griffith of C.A.S.A. in the standard of quality and safety, (BRC) British Retail Consorptium version 6 through the NSF company.
+*  Implementation and development of the quality supervisor position in the quality Department.
+*  Optimization of wastewater treatment plant.
+*  Average annual audits of 96% in 12 external audits of clients.
+*  Representative of the Group C.A.S.A. in the quality area in annual meetings held at Headquarters in Chicago.
+ 
+**Key account manager, regulatory affairs and customer service**  
+INOLASA -- Feb 2008 - Feb 2009  
+
+*  Support technical and legal advice to the companies located in the Central American region and out of INOLASA, serving clients such as Central American franchises, McDonalds, Campero, KFC, Quiznos, Pozuelo, Dos Pinos, Bimbo, etc...
+*  Development of a tool for measurement of polar chips developed for McDonalds.
+*  Development of a service platform to the client for the attention of the technical questions of customers in the Central American region.
+ 
+**Regulatory Affairs and Scientific Director**  
+CACIA -- 2005 Jan - Dec 2008  
+
+*  Representative from the private sector of the food industry in national regulation and standardization committees, National Committee of Codex Alimentarius (Coordinator of the national Sub-Committee of additives and contaminants), National Commission on breastfeeding, Commission technical advisory of the value nutritious of food (CTCVNA), presses subcommittees, users of flour of wheat, coffee, beer, ice and bottled water.
+*  Instructor authorized by the Ministry of health in the course of hygienic handling of food (53 executed courses). 
+*  Other trainings in BPM according to the regulations of the Customs Union, HACCP and its prerequisites, SOP´s - SSOP´s, management of hazardous substances, Pest Control, among others.
+*  Technical assistance to 320 companies through a technical diagnosis.
+*  Troubleshooting safety, formulation and use of additives, BPM, labeling, and process design.
+ 
+**Supply Chain Manager**  
+RC Central American soft drinks -- Jan 2004 - Nov 2004  
+
+*  Development of 5 new liquids and powder to increase the offer of the company.
+*  Purchase of 2 new machines to produce gelatin with the latest technology.
+*  Optimization of production lines.
+*  Training of personnel in records of production and optimization of process lines.
+ 
+**Head of quality assurance**  
+Canned C.R. S.A. -- May 2002 - Jan 2004  
+
+*  Development of canned cassava for the Puerto Rico market.
+*  Private label for Richly brand for commercial food.
+*  Development of jams in tray for Food Service.
+*  Responsible for heat treatment of non-autoclaved in the company.
+*  Lead and organize to 36 people.
+ 
+
+## Education
+
+*  Team Coach - Benpensante Institute of Spain 2013
+*  Master of business administration MBA - Industrial Management Inter American University 2009
+*  Quality Manager and Operational Excellence - American Society for Quality 2009
+*  Bachelor's degree in Food Engineering with honors, UCR 2005
+*  Technical Business Administration ITCR 2004
+ 
+
+## References
+
+Lois, Monica. General Manager at NSF Costa Rica; mlois@nsf.org - (+506) 8722-5950  
+
+Gonzalez, Rebeca. General Manager at Alimentos Kamuk Int; email rgonzalez@kamukcr.com - (+506) 8319-7540 
+
+Albertazzi, Hector. General Manager at Hielo Cristal; (+506) 8383-6962.
+
